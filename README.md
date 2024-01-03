@@ -1,4 +1,4 @@
-<h1>Opt Out OWl</h1>
+<h1>Opt Out Owl</h1>
 <h3>Disclaimer</h3>
 <p>
     I must emphasize that automating email interactions, especially in this manner, could potentially violate terms of service of the email provider and may lead to unintended consequences. It's essential to respect privacy and use APIs or official methods provided by the email service for such tasks.
